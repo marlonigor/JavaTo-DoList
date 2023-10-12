@@ -10,4 +10,4 @@
   
 ...
 
-### Projeto do Curso Introdutório de Java da Rocketseat - 
+**Projeto do Curso Introdutório de Java da Rocketseat** 
